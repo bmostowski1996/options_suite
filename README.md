@@ -1,2 +1,2 @@
 # options_suite
-Some code for computing American options prices under the Black-Scholes model
+Miscellaneous collection of python code while pursuing my phd. Includes implementation of the Longstaff & Schwartz algorithm for American puts (and soon will include some code from my phd research).
